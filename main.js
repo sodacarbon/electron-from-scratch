@@ -6,4 +6,5 @@ app.on('ready', function () {
     height: 600,
     show: true,
   });
+  mainWindow.loadURL(`file://${__dirname}/index.html`);
 });
