@@ -4,6 +4,7 @@
   "description": "blah blah",
   "main": "main.js",
   "scripts": {
+    "start": "electron .",
     "test": "echo \"Oh yeah\""
   },
   "keywords": [
